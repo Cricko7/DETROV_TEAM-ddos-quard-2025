@@ -5,9 +5,9 @@
 - - DETROV team
 
 # Кейс:
-- Network Maze - `NOC`
+- Network Maze - *NOC*
 
 ________________
 
-# # ДОКУМЕНТАЦИЯ:
+# ДОКУМЕНТАЦИЯ:
 ...

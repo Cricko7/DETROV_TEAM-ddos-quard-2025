@@ -1,1 +1,13 @@
-Здесь может быть ваша карта..
+[RESOURCE]
+    |
+    |
+    |--> ISP cluster
+    |
+    |
+    |--> office
+    |
+    |
+    |--> provider
+    |
+    |
+    |--> other

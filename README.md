@@ -1,8 +1,9 @@
-# ВАЖНАЯ ИНФОРМАЦИЯ
+
+![ВАЖНАЯ ИНФОРМАЦИЯ! (наверное..)](images/atten.png)
 
 
 ## Событие:
-- - *DDoS Guard 2025*
+![DDoS Quard](images/event.png)
 
 ## Команда:
 
